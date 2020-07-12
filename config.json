@@ -1,0 +1,5 @@
+{
+  "driver_path": "example/project_folder/chromedriver",
+  "chromium_path": "example/project_folder/Chromium.app/../Chromium",
+  "sessions_folder": "example/project_folder/sessions"
+}
